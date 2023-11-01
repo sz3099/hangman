@@ -1,6 +1,6 @@
 ## My Hangman Report
 
-Shihan Zhou,  2023/10/28
+S Zhou,  2023/10/28
 
 #### Main Strategy: Final Win Rate 59%
 
