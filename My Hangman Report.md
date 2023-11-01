@@ -6,7 +6,7 @@ Shihan Zhou,  2023/10/28
 
 The main strategy for guessing a word can be divided into 2 parts: using a transformer model to return a guess, or using n-gram matching patterns to return a guess.
 
-<img src="img/pic1.png" alt="image-20231029141313178" style="zoom:40%;" />
+<img src="img/pic1.png" alt="fig1" style="zoom:40%;" />
 
 ####  **Part 1: Transformer Model -- Multi-Label Classification Problem**
 
@@ -52,7 +52,7 @@ The main strategy for guessing a word can be divided into 2 parts: using a trans
 
   * Model structure:  Embedding + 2 encoder layer + FFN 
 
-    ​	<img src="img/transformer.png" alt="image-20231029152350254" style="zoom:50%;" />
+    ​	<img src="img/transformer.png" alt="fig2" style="zoom:50%;" />
 
   * Num of Params:  82,267
 
